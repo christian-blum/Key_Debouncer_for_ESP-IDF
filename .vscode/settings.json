@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "esp_bit_defs.h": "c",
+    "gpio_num.h": "c",
+    "text_encoding": "c",
+    "key_debouncer_internals.h": "c",
+    "gpio.h": "c",
+    "esp_intr_alloc.h": "c",
+    "esp_err.h": "c"
+  }
+}
