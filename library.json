@@ -1,0 +1,14 @@
+{
+  "name": "Key_Debouncer_for_ESP-IDF",
+  "version": "1.0.0+2025060313462319",
+  "keywords": "debounce",
+  "description": "Key Debouncer library for ESP-IDF projects",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/christian-blum/Key_Debouncer_for_ESP-IDF"
+  },
+  "frameworks": "espidf",
+  "platforms": "esp32,esp8266",
+  "author": "Christian Blum <c@pf-b.de>"
+}
+    
