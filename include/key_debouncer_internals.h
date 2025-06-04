@@ -6,6 +6,7 @@
 #include "driver/gpio.h"
 
 struct key_debouncer_s {
+  bool configured;
   gpio_num_t pin; // may seem silly but the ISR needs to know
   int32_t marker;
   bool active_low;
