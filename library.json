@@ -1,6 +1,6 @@
 {
   "name": "Key_Debouncer_for_ESP-IDF",
-  "version": "1.0.0+2025060313462319",
+  "version": "1.0.2",
   "keywords": "debounce",
   "description": "Key Debouncer library for ESP-IDF projects",
   "repository": {
